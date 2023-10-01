@@ -31,7 +31,7 @@ public class login_page extends Component implements ActionListener{
 
         String url="jdbc:mysql://127.0.0.1:3306";
         String uname="root";
-        String paswd="PRIPREETH26";
+        String paswd="0000";
         String dataBaseName = "admins";
         String studdataBaseName="college";
 
