@@ -16,7 +16,7 @@ public class admin extends Component {
     public admin(){
         String url="jdbc:mysql://127.0.0.1:3306";
         String uname="root";
-        String paswd="PRIPREETH26";
+        String paswd="0000";
         ImageIcon logo=new ImageIcon("C:\\Users\\preet\\IdeaProjects\\Fees_Billing\\pics\\msr.jpg");
         ImageIcon studenticon = new ImageIcon("C:\\Users\\preet\\IdeaProjects\\Fees_Billing\\pics\\add.jpg");
         ImageIcon deleteicon = new ImageIcon("C:\\Users\\preet\\IdeaProjects\\Fees_Billing\\pics\\delete.jpg");
