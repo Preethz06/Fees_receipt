@@ -24,7 +24,7 @@ public class student{
         j.setLayout(new BorderLayout(0,50));
         String url="jdbc:mysql://127.0.0.1:3306";
         String uname="root";
-        String paswd="PRIPREETH26";
+        String paswd="0000";
         String databaseName="college";
         JPanel panel = new JPanel(new FlowLayout(FlowLayout.RIGHT));
         JLabel l1 = new JLabel("Enter the registration number to search:");
